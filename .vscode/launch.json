@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "wwwwwwww",
+            "request": "launch",
+            "mainClass": "LeetCode.Arrays.wwwwwwww",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Count_Digits",
+            "request": "launch",
+            "mainClass": "GFG.Count_Digits",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "avoid",
+            "request": "launch",
+            "mainClass": "avoid",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Find_Value_of_Variable_after_Performing_Operations",
+            "request": "launch",
+            "mainClass": "LeetCode.Arrays.Find_Value_of_Variable_after_Performing_Operations",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Quick_left_Rotation",
+            "request": "launch",
+            "mainClass": "GFG.Arrays.Quick_left_Rotation",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Search_Insert_Position",
+            "request": "launch",
+            "mainClass": "LeetCode.Arrays.Search_Insert_Position",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Missing_Number",
+            "request": "launch",
+            "mainClass": "LeetCode.Arrays.Missing_Number",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Remove_Duplicate",
+            "request": "launch",
+            "mainClass": "GFG.Arrays.Remove_Duplicate",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Second_Largest",
+            "request": "launch",
+            "mainClass": "GFG.Arrays.Second_Largest",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sorted_OrNot",
+            "request": "launch",
+            "mainClass": "GFG.Arrays.Sorted_OrNot",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Union_of_Two_Sorted",
+            "request": "launch",
+            "mainClass": "GFG.Arrays.Union_of_Two_Sorted",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Union_of_Two_Sorted_arrays",
+            "request": "launch",
+            "mainClass": "GFG.Arrays.Union_of_Two_Sorted_arrays",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch largestelements",
+            "request": "launch",
+            "mainClass": "GFG.Arrays.largestelements",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Check_Sorted_and_Rotated",
+            "request": "launch",
+            "mainClass": "LeetCode.Arrays.Check_Sorted_and_Rotated",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Majority_ElementII",
+            "request": "launch",
+            "mainClass": "LeetCode.Arrays.Majority_ElementII",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Launch Move_all_zeroes_to_end",
+            "request": "launch",
+            "mainClass": "LeetCode.Arrays.Move_all_zeroes_to_end",
+            "projectName": "DSA_77514479"
+        }
+    ]
+}
