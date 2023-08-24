@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sortedOrNot",
+            "request": "launch",
+            "mainClass": "CodingNinja.arrays.sortedOrNot",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "secondSmallestandLargest",
+            "request": "launch",
+            "mainClass": "CodingNinja.arrays.secondSmallestandLargest",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "largest_elements",
+            "request": "launch",
+            "mainClass": "CodingNinja.arrays.largest_elements",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "largest_elements",
+            "request": "launch",
+            "mainClass": "largest_elements",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "merge_sort",
+            "request": "launch",
+            "mainClass": "data_structures_algorithms_master.kunal_kushwaha.recursion.merge_sort",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "selection_sort",
+            "request": "launch",
+            "mainClass": "data_structures_algorithms_master.kunal_kushwaha.recursion.selection_sort",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "patternQuestions",
+            "request": "launch",
+            "mainClass": "data_structures_algorithms_master.kunal_kushwaha.recursion.patternQuestions",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "data_structures_algorithms_master.kunal_kushwaha.recursion.LinearSearch",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "arr_sortedORnot",
+            "request": "launch",
+            "mainClass": "kunal_kushwaha.recursion.arr_sortedORnot",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "arr_sortedORnot",
             "request": "launch",
             "mainClass": "data_structures_algorithms_master.kunal_kushwaha.recursion.arr_sortedORnot",

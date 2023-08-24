@@ -2,28 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="444473d8-092f-4ae8-b069-cad4745e2bfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GFG/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GFG/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GFG/out/production/GFG/GFG/Arrays/Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GFG/out/production/GFG/GFG/GFG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GFG/out/production/GFG/GFG/Learn Sorting/Learn Sorting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GFG/out/production/GFG/GFG/Learn Sorting/out/production/Learn Sorting/Learn Sorting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GFG/out/production/GFG/GFG/LearnTheBasics/LearnTheBasics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GFG/out/production/GFG/GFG/LearnTheBasics/out/production/LearnTheBasics/LearnTheBasics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/OnetoN_print.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/OnetoN_print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/factorialOfn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingNinja/arrays/largest_elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingNinja/arrays/remove_duplicates_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingNinja/arrays/rorated_arr_Once.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingNinja/arrays/secondSmallestandLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/recursion/phone_letter_combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/college_wallah/recursion/keypad_letter_combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/bubble_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/merge_sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/quick_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/rec_rotated_binary_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/selection_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/phone_alpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/skip_a_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/skip_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/subset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/subsubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egnore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data-Structures-Algorithms-master/Data-Structures-Algorithms-master/DSA1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GFG/Learn Sorting/Sorting-I/Insertion_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/GFG/LearnTheBasics/Insertion_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GFG/Learn Sorting/Sorting-I/bubble_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/GFG/LearnTheBasics/bubble_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GFG/Learn Sorting/avoid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GFG/LearnTheBasics/avoid.java" beforeDir="false" afterPath="$PROJECT_DIR$/GFG/LearnTheBasics/avoid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avoid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tempCodeRunnerFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/tempCodeRunnerFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/arr_sortedORnot.java" beforeDir="false" afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/arr_sortedORnot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/data_structures_algorithms_master/kunal_kushwaha/recursion/arr_sortedORnot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/data_structures_algorithms_master/kunal_kushwaha/recursion/arr_sortedORnot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/xyz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/xyz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xyz.java" beforeDir="false" afterPath="$PROJECT_DIR$/xyz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,15 +58,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.arr_sortedORnot">
-    <configuration name="OnetoN_print (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures_algorithms_master.kunal_kushwaha.OnetoN_print" />
+  <component name="RunManager" selected="Application.rorated_arr_Once">
+    <configuration name="keypad_letter_combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structures_algorithms_master.college_wallah.recursion.keypad_letter_combination" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures_algorithms_master.kunal_kushwaha.*" />
+          <option name="PATTERN" value="data_structures_algorithms_master.college_wallah.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnetoN_print (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kunal_kushwaha.recursin.OnetoN_print" />
+    <configuration name="phone_alpha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structures_algorithms_master.kunal_kushwaha.recursion.strings_questions.phone_alpha" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kunal_kushwaha.recursin.*" />
+          <option name="PATTERN" value="data_structures_algorithms_master.kunal_kushwaha.recursion.strings_questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnetoN_print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kunal_kushwaha.recursion.OnetoN_print" />
+    <configuration name="phone_letter_combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.recursion.phone_letter_combination" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kunal_kushwaha.recursion.*" />
+          <option name="PATTERN" value="LeetCode.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arr_sortedORnot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures_algorithms_master.kunal_kushwaha.recursion.arr_sortedORnot" />
+    <configuration name="quick_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structures_algorithms_master.kunal_kushwaha.recursion.quick_sort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -109,12 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="rorated_arr_Once" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingNinja.arrays.rorated_arr_Once" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingNinja.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arr_sortedORnot" />
-        <item itemvalue="Application.OnetoN_print (2)" />
-        <item itemvalue="Application.OnetoN_print (1)" />
-        <item itemvalue="Application.OnetoN_print" />
+        <item itemvalue="Application.rorated_arr_Once" />
+        <item itemvalue="Application.phone_letter_combination" />
+        <item itemvalue="Application.keypad_letter_combination" />
+        <item itemvalue="Application.phone_alpha" />
+        <item itemvalue="Application.quick_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +169,44 @@
           <url>file://$PROJECT_DIR$/kunal_kushwaha/recursin/OnetoN_print.java</url>
           <line>9</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/LinearSearch.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/selection_sort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/merge_sort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodingNinja/arrays/remove_duplicates_arr.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/egnore.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/phone_alpha.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CodingNinja/arrays/rorated_arr_Once.java</url>
+          <line>21</line>
+          <properties class="CodingNinja.arrays.rorated_arr_Once" method="rotate">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
