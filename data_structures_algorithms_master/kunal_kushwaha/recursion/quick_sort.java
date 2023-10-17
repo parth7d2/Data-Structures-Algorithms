@@ -13,7 +13,6 @@ public class quick_sort {
         if(low>=hi){
             return;
         }
-
         int s = low;
         int e = hi;
         int m = s + (e-s)/2;
@@ -35,7 +34,6 @@ public class quick_sort {
                 e--;
             }
         }
-
         sort(arr, low, e);
         sort(arr, s, hi);
     }

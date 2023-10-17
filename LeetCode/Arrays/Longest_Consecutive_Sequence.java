@@ -5,7 +5,8 @@ import java.util.Set;
 
 public class Longest_Consecutive_Sequence {
     public static void main(String[] args) {
-
+        int[] nums = {100,4,200,1,3,2};
+        System.out.println(longestConsecutive(nums));
     }
 
     static int longestConsecutive(int[] nums) {
@@ -31,5 +32,7 @@ public class Longest_Consecutive_Sequence {
         }
         return longestStreak;
     }
+
+
 
 }

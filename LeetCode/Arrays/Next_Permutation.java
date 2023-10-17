@@ -8,7 +8,7 @@ public class Next_Permutation {
 
     }
 
-    static List<Integer> nextPermutation(int[] nums) {
+    static List<Integer> nextPermutation2(int[] nums) {
         List<Integer> list = new ArrayList<>();
         for (int i : nums) {
             list.add(i);
@@ -56,5 +56,8 @@ public class Next_Permutation {
             end--;
         }
     }
+
+
+
 
 }

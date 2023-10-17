@@ -5,8 +5,8 @@ public class Missing_Number {
     // Given an array nums containing n distinct numbers in the range [0, n], return
     // the only number in the range that is missing from the array.
     public static void main(String[] args) {
-        int[] arr = { 9, 6, 4, 2, 3, 5, 7, 0, 1 };
-        System.out.println(missingNumber(arr));
+        int[] arr = {1, 0};
+        System.out.println(missingNumber2(arr));
     }
 
     static int missingNumber(int[] arr) {
@@ -20,6 +20,22 @@ public class Missing_Number {
         target = total - n;
         return target;
 
+    }
+
+    static int missingNumber2(int[] nums) {
+
+        for(int i = 0; i<nums.length; i++){
+            boolean mis = true;
+            for(int j = 0; j<nums.length; j++){
+                if(i == nums[j]){
+                    mis = false;
+                    break;
+                }else if (j == nums.length-1 && mis){
+                    return i;
+                }
+            }
+        }
+        return nums.length;
     }
 
 }

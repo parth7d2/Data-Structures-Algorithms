@@ -2,30 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="444473d8-092f-4ae8-b069-cad4745e2bfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CodingNinja/arrays/largest_elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingNinja/arrays/remove_duplicates_arr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingNinja/arrays/rorated_arr_Once.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingNinja/arrays/secondSmallestandLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/recursion/phone_letter_combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/college_wallah/recursion/keypad_letter_combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/bubble_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/merge_sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/quick_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/rec_rotated_binary_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/selection_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/phone_alpha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/skip_a_char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/skip_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/subset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/subsubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egnore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingNinja/arrays/merge_2sorted_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Best_Time_t_Buy_and_Sell_Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Majority_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Max_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Maximum_Product_Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Merge_Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Merge_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/No_of_emp_who_met_target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Pascals_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Rearrange_Array_Elements_by_Sign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Rotate_Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Set_Matrix_Zeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Single_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Sort_Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Spiral_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Subarray_Sum_Equals_K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Arrays/Two_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Find_First_and_Last_Position_of_Element_in_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Find_Minimum_in_Rotated_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Find_Peak_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Koko_Eating_Bananas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Minimum_Number_of_Days_to_Make_m_Bouquets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Search_Insert_Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Search_in_Rotated_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Single_Element_in_a_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Palindrome_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/backtracking_questions/Counting_Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/backtracking_questions/Maze_with_Obstacles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/backtracking_questions/Printing_Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/linkedlist/main_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/linkedlist/singly_LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Arrays/Longest_Consecutive_Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Arrays/Longest_Consecutive_Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Arrays/Majority_ElementII.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Arrays/Majority_ElementII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Arrays/Max_Consecutive_Ones.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Arrays/Max_Consecutive_Ones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Arrays/Missing_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Arrays/Missing_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Arrays/Move_all_zeroes_to_end.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Arrays/Move_all_zeroes_to_end.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Arrays/Next_Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Arrays/Next_Permutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/arr_sortedORnot.java" beforeDir="false" afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/arr_sortedORnot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/quick_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/quick_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/subset.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/LeetCode/Arrays/Longest_Consecutive_Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/LeetCode/Arrays/Longest_Consecutive_Sequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/LeetCode/Arrays/Majority_ElementII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/LeetCode/Arrays/Majority_ElementII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/LeetCode/Arrays/Max_Consecutive_Ones.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/LeetCode/Arrays/Max_Consecutive_Ones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/LeetCode/Arrays/Missing_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/LeetCode/Arrays/Missing_Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/LeetCode/Arrays/Move_all_zeroes_to_end.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/LeetCode/Arrays/Move_all_zeroes_to_end.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/LeetCode/Arrays/Next_Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/LeetCode/Arrays/Next_Permutation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DSA/data_structures_algorithms_master/kunal_kushwaha/recursion/arr_sortedORnot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/data_structures_algorithms_master/kunal_kushwaha/recursion/arr_sortedORnot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/data_structures_algorithms_master/kunal_kushwaha/recursion/quick_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/data_structures_algorithms_master/kunal_kushwaha/recursion/quick_sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/subset.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/subset.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DSA/xyz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/xyz.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xyz.java" beforeDir="false" afterPath="$PROJECT_DIR$/xyz.java" afterDir="false" />
     </list>
@@ -44,6 +73,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="2SR2dyzJlDabWrpYLtJkOL13UUs" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,13 +97,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.rorated_arr_Once">
-    <configuration name="keypad_letter_combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures_algorithms_master.college_wallah.recursion.keypad_letter_combination" />
+  <component name="RunManager" selected="Application.Minimum_Number_of_Days_to_Make_m_Bouquets">
+    <configuration name="Find_Minimum_in_Rotated_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BinarySearch.Find_Minimum_in_Rotated_Sorted_Array" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures_algorithms_master.college_wallah.recursion.*" />
+          <option name="PATTERN" value="LeetCode.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="phone_alpha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures_algorithms_master.kunal_kushwaha.recursion.strings_questions.phone_alpha" />
+    <configuration name="Find_Peak_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BinarySearch.Find_Peak_Element" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures_algorithms_master.kunal_kushwaha.recursion.strings_questions.*" />
+          <option name="PATTERN" value="LeetCode.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="phone_letter_combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.recursion.phone_letter_combination" />
+    <configuration name="Koko_Eating_Bananas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BinarySearch.Koko_Eating_Bananas" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.recursion.*" />
+          <option name="PATTERN" value="LeetCode.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quick_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures_algorithms_master.kunal_kushwaha.recursion.quick_sort" />
+    <configuration name="Minimum_Number_of_Days_to_Make_m_Bouquets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BinarySearch.Minimum_Number_of_Days_to_Make_m_Bouquets" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures_algorithms_master.kunal_kushwaha.recursion.*" />
+          <option name="PATTERN" value="LeetCode.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rorated_arr_Once" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingNinja.arrays.rorated_arr_Once" />
+    <configuration name="Single_Element_in_a_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BinarySearch.Single_Element_in_a_Sorted_Array" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingNinja.arrays.*" />
+          <option name="PATTERN" value="LeetCode.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.rorated_arr_Once" />
-        <item itemvalue="Application.phone_letter_combination" />
-        <item itemvalue="Application.keypad_letter_combination" />
-        <item itemvalue="Application.phone_alpha" />
-        <item itemvalue="Application.quick_sort" />
+        <item itemvalue="Application.Minimum_Number_of_Days_to_Make_m_Bouquets" />
+        <item itemvalue="Application.Koko_Eating_Bananas" />
+        <item itemvalue="Application.Find_Minimum_in_Rotated_Sorted_Array" />
+        <item itemvalue="Application.Find_Peak_Element" />
+        <item itemvalue="Application.Single_Element_in_a_Sorted_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +236,109 @@
           <url>file://$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/phone_alpha.java</url>
           <line>9</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/arr_sortedORnot.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/Arrays/Missing_Number.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/Arrays/Single_Number.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodingNinja/arrays/merge_2sorted_arr.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/quick_sort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/Arrays/Two_Sum.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/Arrays/Sort_Color.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/Arrays/Max_Sum.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/Arrays/Rearrange_Array_Elements_by_Sign.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/Palindrome_Number.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/Arrays/Rotate_Image.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/Arrays/Subarray_Sum_Equals_K.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/Arrays/Pascals_Triangle.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/Arrays/Merge_Intervals.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/subset.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/Arrays/Maximum_Product_Subarray.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/BinarySearch/Binary_Search.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/BinarySearch/Search_Insert_Position.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/linkedlist/singly_LinkedList.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CodingNinja/arrays/rorated_arr_Once.java</url>
+          <line>21</line>
+          <properties class="CodingNinja.arrays.rorated_arr_Once" method="rotate">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
