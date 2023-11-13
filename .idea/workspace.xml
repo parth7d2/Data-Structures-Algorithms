@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="444473d8-092f-4ae8-b069-cad4745e2bfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Capacity_To_Ship_Packages_Within_D_Days.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Find_a_Peak_Element_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Kth_Missing_Positive_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Median_of_Two_Sorted_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Search_a_2D_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/BinarySearch/Search_a_2D_Matrix_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Bit_Manipulation/Divide_Two_Integers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Bit_Manipulation/Power_of_Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Linkedlist/Add_Two_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Linkedlist/Delete_Node_in_a_Linked_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Linkedlist/Middle_of_the_Linked_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Linkedlist/Remove_Nth_Node_From_End_of_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Linkedlist/Reverse_Linked_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Linkedlist/Reverse_Nodes_in_k_Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Linkedlist/Rotate_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Stacks_and_Queues/Implement_Stack_using_Queues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Strings/Largest_Odd_Number_in_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Strings/Longest_Common_Prefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Strings/Longest_Palindromic_Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Strings/Maximum_Nesting_Depth_of_the_Parentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Strings/Remove_Outermost_Parentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Strings/Reverse_Words_in_a_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Strings/Roman_to_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Strings/String_to_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/recursion/Combination_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/recursion/Combination_Sum_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/recursion/Count_Good_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/recursion/Generate_Parentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/recursion/Pow_x_n.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/recursion/String_to_Integer_atoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/recursion/Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/recursion/Subsets_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/college_wallah/recursion/LinkedList/ImpLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/college_wallah/recursion/LinkedList/basicsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/Stacks_Queues/CustomStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/Stacks_Queues/StackExeptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/Stacks_Queues/stackMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/data_structures_algorithms_master/kunal_kushwaha/recursion/strings_questions/subset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egnore.java" beforeDir="false" afterPath="$PROJECT_DIR$/egnore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/egnore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/egnore.class" afterDir="false" />
-    </list>
+    <list default="true" id="444473d8-092f-4ae8-b069-cad4745e2bfd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
