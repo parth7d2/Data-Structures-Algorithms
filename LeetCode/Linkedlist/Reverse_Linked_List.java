@@ -1,4 +1,4 @@
-package data_structures_algorithms_master.college_wallah.recursion.LinkedList;
+package LeetCode.Linkedlist;
 
 
 public class Reverse_Linked_List {

@@ -1,6 +1,6 @@
 package LeetCode.Linkedlist;
 
-public class Palindrome_Linked_List {
+public class Remove_Nth_Node_From_End_of_List {
     public static void main(String[] args) {
         ListNode a = new ListNode(1);
         ListNode b = new ListNode(2);
@@ -25,26 +25,30 @@ public class Palindrome_Linked_List {
         ListNode(int val) {
             this.val = val;
         }
+        ListNode() {
+        }
+
     }
 
 
     public static ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode temp = new ListNode();
-        temp.next = head;
-        ListNode fast = temp;
-        ListNode slow = temp;
-        for(int i = 0; i<=n; i++){
-            fast = fast.next;
-        }
+        ListNode start = new ListNode();
+        start.next = head;
+        ListNode fast = start;
+        ListNode slow = start;
 
-        while (fast.next != null){
+        for(int i = 1; i <= n; ++i)
+            fast = fast.next;
+
+        while(fast.next != null)
+        {
             fast = fast.next;
             slow = slow.next;
         }
 
         slow.next = slow.next.next;
 
-        return temp.next;
+        return start.next;
     }
 
     public static int length(ListNode temp){

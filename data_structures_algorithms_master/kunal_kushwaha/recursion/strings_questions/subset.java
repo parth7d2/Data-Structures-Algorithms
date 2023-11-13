@@ -17,7 +17,7 @@ public class subset {
     * 4th find out length
     * 5th run for loop because we add number into each outerlist array
     * 6th create internal list
-    * 7th one by one array come into the outerlist
+    * 7th one by one array come from the outerlist ("outer.get(i)") and add into internal list
     * 8th add num into that array
     * 9th internal list add into outerlist
     * 10th return outerlist

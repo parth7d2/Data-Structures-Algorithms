@@ -1,6 +1,6 @@
 package data_structures_algorithms_master.college_wallah.recursion.LinkedList;
 
-public class ListNode {
+public class basicsII {
 
     public static void displayRec(Node head){
         if(head == null){
