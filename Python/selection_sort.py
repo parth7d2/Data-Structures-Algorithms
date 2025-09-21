@@ -8,7 +8,7 @@ def selection_sort(nums):
         for j in range(i, length):
             if nums[small] > nums[j]:
                 small = j
-        nums[i], nums[small] = nums[small], nums[i]  # swap
+        nums[i], nums[small] = nums[small], nums[i]  
     return nums
 
 
